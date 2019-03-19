@@ -1,6 +1,7 @@
-# simpleapptest
+# simple wep app test
 
-> My sublime Nuxt.js project
+> function: to show the dynamic meta info based on url
+> using NuxtJs VuetifyJs
 
 ## Build Setup
 
